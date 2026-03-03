@@ -1,7 +1,6 @@
 # CS2 Bhop
 
-External bhop for CS2. Reads ground state from memory, simulates mouse scroll down on landing. 
-Hold SPACE to bhop.
+Undetected and safe external bhop script for CS2. Simulates mouse scroll down on landing. Hold SPACE to bhop.
 
 ## Requirements
 
