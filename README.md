@@ -1,6 +1,6 @@
 # CS2 Bhop
 
-Undetected and safe external bhop script for CS2. Simulates mouse scroll down on landing. Hold SPACE to bhop.
+Undetected external bhop script for CS2. Simulates mouse scroll down on landing. Hold SPACE to bhop.
 
 ## Requirements
 
