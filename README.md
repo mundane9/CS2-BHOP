@@ -5,7 +5,7 @@ External bhop script for CS2. Simulates mouse scroll down on landing. Hold SPACE
 ## Requirements
 
 - Windows
-- .NET 8 SDK — [download](https://dotnet.microsoft.com/download/dotnet/8.0) (if compiling yourself)
+- .NET 8 SDK [download](https://dotnet.microsoft.com/download/dotnet/8.0) (if compiling yourself)
 
 ## Setup
 
